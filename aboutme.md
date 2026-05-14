@@ -1,1 +1,3 @@
 Me gusta los juegos de lógica y retos de agilidad mental, rompecabezas, etc.
+............
+![Imagen aleatoria](/img/imagen.jpg)
